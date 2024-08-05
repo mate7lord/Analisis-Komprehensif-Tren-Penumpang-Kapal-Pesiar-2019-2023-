@@ -1,0 +1,88 @@
+Nama Kapal Pesiar,Negara Asal,Tanggal Keberangkatan,Pelabuhan Tujuan,Tanggal Kedatangan,Rute Kapal Pesiar,Jml Penumpang WNA,Jml Penumpang WNI,Jumlah Penumpang,Jml Crew WNA,Jml Crew WNI,Jumlah Crew
+DIAMOND PRINCESS,Singapura,29 Desember 2018,Benoa,01 Januari 2019,Singapura - Benoa,"2,865",5,"2,870",993,71,"1,064"
+ASTOR,Australia,15 Januari 2019,Benoa,19 Januari 2019,Australia - Benoa,456,2,458,228,60,288
+EUROPA 2,Malaysia,15 Januari 2019,Benoa,19 Januari 2019,Malaysia - Benoa,450,2,452,343,26,369
+AIDA VITA,Darwin,09 Februari 2019,Benoa,12 Februari 2019,Darwin - Benoa,"1,161",2,"1,163",362,32,394
+SAPPHIRE PRINCESS,Singapura,28 Februari 2019,Benoa,03 Maret 2019,Singapura - Benoa,"2,687",5,"2,692","1,019",59,"1,078"
+PASIFIC JEWEL,Australia,01 Maret 2019,Benoa,05 Maret 2019,Australia - Benoa,"1,606",4,"1,610",642,66,708
+SILVER MUSE,Australia,05 Maret 2019,Benoa,09 Maret 2019,Australia - Benoa,501,2,503,388,18,406
+QUEEN VICTORIA,Australia,07 Maret 2019,Benoa,11 Maret 2019,Australia - Benoa,"1,847",4,"1,851",957,2,959
+PANORAMA II,Vietnam,24 Mei 2019,Benoa,30 Mei 2019,Vietnam - Benoa,0,0,0,8,9,17
+SUN PRINCESS,Vietnam,30 September 2019,Benoa,05 Oktober 2019,Vietnam - Benoa,"1,968",7,"1,975",781,73,854
+SUN PRINCESS,Thailand,18 November 2019,Benoa,23 November 2019,Thailand - Benoa,"1,957",4,"1,961",792,69,861
+CARNIVAL SPLENDOR,Singapura,24 November 2019,Benoa,28 November 2019,Singapura - Benoa,"3,022",9,"3,031",913,297,"1,210"
+SAPPHIRE PRINCESS,Thailand ,09 Desember 2019,Benoa,14 Desember 2019,Thailand - Benoa,"2,778",6,"2,784","1,019",59,"1,078"
+SAPPHIRE PRINCESS,Singapura,27 Desember 2019,Benoa,31 Desember 2019,Singapura - Benoa,"2,895",12,"2,907","1,010",62,"1,072"
+GENTING DREAM,Singapura,12 Januari 2019,Tanjung Perak,15 Januari 2019,Singapura - Benoa,"2,481",64,"2,545","1,677",275,"1,952"
+GENTING DREAM,Singapura,16 Maret 2019,Tanjung Perak,19 Maret 2019,Singapura - Benoa,"2,936",88,"3,024","1,599",248,"1,847"
+GENTING DREAM,Singapura,11 Mei 2019,Tanjung Perak,14 Mei 2019,Singapura - Benoa,"2,639",36,"2,675","1,473",265,"1,738"
+GENTING DREAM,Singapura,27 Juli 2019,Tanjung Perak,30 Juli 2019,Singapura - Benoa,"3,022",46,"3,068","1,483",265,"1,748"
+GENTING DREAM,Singapura,24 Agustus 2019,Tanjung Perak,27 Agustus 2019,Singapura - Benoa,"2,018",22,"2,040","1,504",265,"1,769"
+STAR CLIPER,Singapura,10 Juni 2019,Tanjung Priok,13 Juni 2019,Singapura - Pulau Pramuka,74,0,74,45,28,73
+OCEAN DREAM,Filipina,28 Desember 2019,Benoa,03 Januari 2020,Filipina - Benoa,"1,032",3,"1,035",208,206,414
+VASCO DA GAMA,Australia,16 Januari 2020,Benoa,19 Januari 2020,Australia,952,3,955,295,137,432
+PASIFIC EXPLORER,Dili Timor Leste,04 Februari 2020,Benoa,07 Februari 2020,Dili Timor Leste,"1,902",6,"1,908",866,81,947
+VASCO DA GAMA,Australia,15 Februari 2020,Benoa,19 Februari 2020,Australia - Benoa,945,3,948,381,162,543
+RADIANCE OF THE SEAS,Australia,16 Februari 2020,Benoa,20 Februari 2020,Australia - Benoa,"2,042",8,"2,050",690,169,859
+ARTANIA,Singapura,21 Februari 2020,Benoa,25 Februari 2020,Singapura - Benoa,766,3,769,460,74,534
+COLUMBUS,Australia,05 Maret 2020,Benoa,09 Maret 2020,Australia - Benoa,"1,025",3,"1,028",476,146,622
+PANORAMA II,Thailand,13 Maret 2020,Benoa,19 Maret 2020,Thailand - Benoa,0,0,0,9,5,14
+CARNIVAL,Australia,27 April 2020,Tanjung Priok,01 Mei 2020,Australia - Singapura,0,0,0,0,375,375
+AMSTERDAM,Malaysia,02 Mei 2020,Tanjung Priok,06 Mei 2020,Malaysia - Filipina,0,0,0,0,172,172
+WIND SPIRIT,Malaysia,02 Mei 2020,Tanjung Priok,06 Mei 2020,Malaysia - Singapura,0,0,0,0,44,44
+QUANTUM OF THE SEAS,Cina,30 April 2020,Tanjung Priok,08 Mei 2020,Cina - Singapura,0,0,0,0,93,93
+VIKING ORION,Singapura,08 Mei 2020,Tanjung Priok,11 Mei 2020,Singapura - Bali,0,0,0,0,42,42
+NIEUW AMSTERDAM,South Africa,07 Mei 2020,Tanjung Priok,31 Mei 2020,South Africa - Singapura,0,0,0,0,418,418
+CARNIVAL SPLENDOR,Filipina,22 Mei 2020,Tanjung Priok,31 Mei 2020,Filipina - Singapura,0,0,0,0,400,400
+VOLENDAM,South Africa,10 Mei 2020,Tanjung Priok,03 Juni 2020,South Africa - Singapura,0,0,0,0,194,194
+VOLENDAM,Singapura,30 Mei 2020,Tanjung Priok,02 Juni 2020,Singapura - Singapura,0,0,0,0,679,679
+ROTTERDAM,South Africa,15 Mei 2020,Tanjung Priok,08 Juni 2020,South Africa - Filipina,0,0,0,0,343,343
+ISLAND PRINCESS,Srilanka,31 Mei 2020,Tanjung Priok,10 Juni 2020,Srilanka - Filipina,0,0,0,0,241,241
+COSTA MEDITERANEAN,Malaysia,11 Juni 2020,Tanjung Priok,15 Juni 2020,Malaysia - Filipina,0,0,0,0,326,326
+VEENDAM,Colombo,12 Juni 2020,Tanjung Priok,22 Juni 2020,Colombo - Bali,0,0,0,0,344,344
+AMSTERDAM,Filipina,25 Juni 2020,Tanjung Priok,02 Juli 2020,Filipina - Singapura,0,0,0,0,263,263
+ZUIDERMAN,Filipina,08 Juli 2020,Tanjung Priok,15 Juli 2020,Filipina - Malaysia,0,0,0,0,103,103
+ZUIDERMAN,Malaysia,02 Agustus 2020,Tanjung Priok,06 Agustus 2020,Malaysia - Filipina,0,0,0,0,213,213
+COSTA MEDITERANEAN,Singapura,05 Agustus 2020,Tanjung Priok,09 Agustus 2020,Singapura - Filipina,0,0,0,0,121,121
+COSTA ATLANTICA,Singapura,20 September 2020,Tanjung Priok,24 September 2020,Singapura - Singapura,0,0,0,0,47,47
+COSTA MEDITERANEAN,Singapura,23 Oktober 2020,Tanjung Priok,27 Oktober 2020,Singapura - Singapura,0,0,0,0,130,130
+COSTA SERENA,Singapura,23 Oktober 2020,Tanjung Priok,27 Oktober 2020,Singapura - Filipina,0,0,0,0,175,175
+NORWEGIAN ESCAPE,Filipina,05 November 2020,Tanjung Priok,05 November 2020,Filipina - India,0,0,0,0,111,111
+COSTA MEDITERANEAN,Singapura,29 Oktober 2020,Tanjung Priok,25 November 2020,Singapura - Singapura,0,0,0,0,105,105
+LE LAPOREUSE,Singapura,10 Desember 2020,Tanjung Priok,13 Desember 2020,Singapura - Australia,0,0,0,0,119,119
+QUEEN ELIZABETH,Singapura,28 Oktober 2022,Tanjung Priok,01 November 2022,Singapura - Australia,594,6,600,400,0,400
+STARSRAAD LEHMKUHL,Singapura,03 November 2022,Tanjung Priok,06 November 2022,Singapura - Mauritius,118,0,118,29,0,29
+VIKING ORION,Singapura,14 November 2022,Tanjung Priok,17 November 2022,Singapura - Komodo,389,6,395,200,0,200
+VIKING MARS,Singapura,03 Desember 2022,Tanjung Priok,06 Desember 2022,Singapura - Komodo,816,6,822,470,0,470
+EUROPA 2,Singapura,13 Desember 2022,Tanjung Priok,16 Desember 2022,Singapura - Benoa,429,4,433,366,0,366
+GENTING DREAM,Singapura,17 Desember 2022,Tanjung Perak,20 Desember 2022,Singapura - Benoa,"3,735",197,"3,932","1,241",559,"1,800"
+LE LAPOREUSE,Singapura,15 November 2022,Tanjung Mas,18 November 2022,Singapura - Tanjung Mas,94,3,97,109,11,120
+SEVEN SEAS EXPLORER,Singapura,11 Desember 2022,Tanjung Mas,14 Desember 2022,Singapura - Surabaya,644,6,650,500,0,500
+NATIONAL GEOGRAPGIC ORION,Papua Nugini,13 Oktober 2022,Benoa,27 Oktober 2022,Papua Nugini - Singapura,53,0,53,66,0,66
+VIKING ORION,Australia,31 Oktober 2022,Benoa,03 November 2022,Australia - Singapura,353,0,353,330,113,443
+REGATTA,Australia,23 November 2022,Benoa,26 November 2022,Australia - Singapura,599,4,603,311,86,397
+SILVER MUSE,Singapura,01 Desember 2022,Benoa,05 Desember 2022,Singapura - Benoa,498,8,506,339,24,363
+AZMARA QUEST,Singapura,11 Desember 2022,Benoa,15 Desember 2022,Singapura - Australia,397,6,403,342,52,394
+SEVEN SEAS EXPLORER,Singapura,13 Desember 2022,Benoa,17 Desember 2022,Singapura - Australia,624,2,626,459,76,535
+EUROPA 2,Singapura,16 Desember 2022,Benoa,20 Desember 2022,Singapura - Australia,357,2,359,339,34,373
+REGATTA,Australia,21 Desember 2022,Benoa,26 Desember 2022,Australia - Singapura,581,30,611,316,89,405
+WESTERDAM,Singapura,11 Februari 2023,Tanjung Priok,16 Februari 2023,Singapura - Tanjung Priok,"1,872",9,"1,881",424,366,790
+SEVEN SEAS EXPLORER,Australia,10 Februari 2023,Tanjung Perak,15 Februari 2023,Australia - Singapura,644,6,650,500,0,500
+VIKING ORION,Australia,16 Maret 2023,Tanjung Mas,21 Maret 2023,Australia - Vietnam,836,5,841,358,112,470
+WESTERDAM,Australia,10 Januari 2023,Benoa,14 Januari 2023,Australia - Benoa,"1,859",12,"1,871",447,362,809
+PASIFIC ENCOUNTER,Australia,29 Januari 2023,Benoa,02 Februari 2023,Australia - Benoa,"1,709",11,"1,720",918,97,"1,015"
+AZAMARA QUEST,Australia,19 Februari 2023,Benoa,24 Februari 2023,Australia - Singapura,397,6,403,342,52,394
+EUROPA 2,Australia,17 Februari 2023,Benoa,22 Februari 2023,Australia - Tanjung Mas,307,0,307,313,34,347
+QUEEN MARY 2,Singapura,22 Februari 2023,Benoa,23 Februari 2023,Singapura - Benoa,"2,171",7,"2,178","1,521",0,"1,521"
+PASIFIC ENCOUNTER,Singapura,24 Februari 2023,Benoa,28 Februari 2023,Singapura - Komodo,"2,351",12,"2,363","1,007",92,"1,099"
+SEVEN SEAS MARINER,Australia,22 Februari 2023,Benoa,27 Februari 2023,Australia - Benoa,556,0,556,377,77,454
+PAUL GAUGUIN,Singapura,01 Maret 2023,Benoa,04 Maret 2023,Singapura - Komodo,36,2,38,220,0,220
+QUEEN ELIZABETH,Australia,05 Maret 2023,Benoa,11 Maret 2023,Australia - Tanjung Priok,"1,872",12,"1,884",960,27,987
+QUEEN VICTORIA,Australia,06 Maret 2023,Benoa,12 Maret 2023,Australia - Tanjung Priok,"1,521",7,"1,528",838,0,838
+SEABOURN SOJOURN,Australia,23 Maret 2023,Benoa,27 Maret 2023,Australia - Probolinggo,346,7,353,362,3,365
+PASIFIC WORLD,Filipina,15 April 2023,Benoa,22 April 2023,Filipina - Singapura,"1,254",8,"1,262",380,312,692
+LEPONANT,Singapura,15 April 2023,Benoa,18 April 2023,Singapura - Benoa,0,0,0,28,0,28
+PASIFIC ENCOUNTER,Australia,30 Januari 2023,Lembar,03 Februari 2023,Australia - Lembar,"1,702",9,"1,711",917,96,"1,013"
+VIKING ORION,Australia,16 Februari 2023,Lembar,21 Februari 2023,Australia - Benoa,834,5,839,454,0,454
+MSC MAGNIFICA,Australia,31 Januari 2023,Lembar,05 April 2023,Australia - Benoa,"1,952",6,"1,958",686,226,912
+,,,,,,,,,,,
