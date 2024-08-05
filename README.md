@@ -6,7 +6,7 @@ Industri kapal pesiar adalah sektor yang penting dalam pariwisata global. Dengan
 
 ## Tujuan
 
-Proyek ini bertujuan untuk menganalisis data penumpang kapal pesiar dari lima pelabuhan utama dari tahun 2019 hingga 2023. Analisis ini mencakup:
+Proyek ini bertujuan untuk menganalisis data penumpang kapal pesiar dari lima pelabuhan utama dari tahun 2019 hingga 2023. Analisis ini mencakup :
 - Pembersihan data
 - Analisis deskriptif
 - Analisis tren
